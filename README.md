@@ -8,6 +8,7 @@ Objectives for first half 2024
 - MiniConda (conda v24.4.0)
 - Vscode
 - Tensorflow + Keras
+- Jupyter Notebook
 
 ## Manual Setup
 
