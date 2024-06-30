@@ -14,11 +14,12 @@ Objectives for first half 2024
 
 1. git clone `git@github.com:NiloJr-sun/objectives2024.git`
 2. cd objectives2024/pobjective/
-3. conda create --name myenv python=3.12.3
-4. conda activate myenv
-5. conda install tensorflow
-6. conda install jupyter
-7. jupyter notebook
+3. install mini-conda from here: https://docs.anaconda.com/miniconda/miniconda-install/
+4. conda create --name myenv python=3.12.3
+5. conda activate myenv
+6. conda install tensorflow
+7. conda install jupyter
+8. jupyter notebook
 
 ## Commands to run the app manually
 
